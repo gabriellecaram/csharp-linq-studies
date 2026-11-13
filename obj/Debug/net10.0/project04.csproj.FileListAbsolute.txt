@@ -1,0 +1,15 @@
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.AssemblyInfoInputs.cache
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.AssemblyInfo.cs
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.csproj.CoreCompileInputs.cache
+C:\Users\pedro\applications\project02\project04\bin\Debug\net10.0\project04.exe
+C:\Users\pedro\applications\project02\project04\bin\Debug\net10.0\project04.deps.json
+C:\Users\pedro\applications\project02\project04\bin\Debug\net10.0\project04.runtimeconfig.json
+C:\Users\pedro\applications\project02\project04\bin\Debug\net10.0\project04.dll
+C:\Users\pedro\applications\project02\project04\bin\Debug\net10.0\project04.pdb
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.dll
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\refint\project04.dll
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.pdb
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.genruntimeconfig.cache
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\ref\project04.dll
+C:\Users\pedro\applications\project02\project04\obj\Debug\net10.0\project04.csproj.Up2Date
